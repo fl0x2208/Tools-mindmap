@@ -6,5 +6,6 @@ mindmap created for tools that can be used for:
 3. Forensics - WIP
 4. Cyber Threats - WIP
 5. SOC Envrionment - WIP
+6. Windows PowerShell cmdlets - WIP
 
 Any other suggestions i will try and create mind map for it
